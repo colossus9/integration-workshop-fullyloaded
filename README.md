@@ -2,7 +2,7 @@
 
 ## What is it?
 
-Have you ever wanted to keep track of your favorite books? MyAwesomeBookApp is the solution you've been waiting for!
+Have you ever wanted to keep track of your favorite books? MyAwesomeBookApp.lol is the solution you've been waiting for!
 
 ## Adding a book
 
